@@ -31,7 +31,7 @@
       ]
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/expense_tracker_light_icon_1024.png"
     },
     "plugins": [
       [
