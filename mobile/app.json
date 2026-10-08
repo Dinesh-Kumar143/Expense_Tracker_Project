@@ -4,10 +4,10 @@
     "slug": "expense-tracker",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/expense_tracker_light_icon_1024.png",
+    "icon": "./assets/app_logo_1024.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/expense_tracker_light_1284x2778.png",
+      "image": "./assets/splash_screen_1284x2778.png",
       "resizeMode": "contain",
       "backgroundColor": "#FFFFFF"
     },
@@ -22,7 +22,7 @@
       "package": "com.expensetracker.app",
       "adaptiveIcon": {
         "backgroundColor": "#FFFFFF",
-        "foregroundImage": "./assets/expense_tracker_light_icon_1024.png"
+        "foregroundImage": "./assets/app_logo_1024.png"
       },
       "predictiveBackGestureEnabled": false,
       "permissions": [
@@ -31,7 +31,7 @@
       ]
     },
     "web": {
-      "favicon": "./assets/expense_tracker_light_icon_1024.png"
+      "favicon": "./assets/app_logo_1024.png"
     },
     "plugins": [
       [
